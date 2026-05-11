@@ -1,0 +1,7 @@
+ipykernel
+jupyter
+mlflow
+numpy
+pandas
+scikit-learn
+streamlit
